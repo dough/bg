@@ -1,0 +1,4 @@
+ git remote add origin https://github.com/dough/bg.git
+ git push -u origin gh-pages
+ git add index.html vignettes 
+ git commit -a -m "..."
