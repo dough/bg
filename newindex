@@ -1,0 +1,4 @@
+  vim index.html
+  git add index.html
+  git commit -a -m "new index"
+  git push origin gh-pages
